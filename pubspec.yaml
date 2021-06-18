@@ -2,7 +2,7 @@ name: easistent_timetable
 description: eAsistent timetable parser
 version: 0.0.1
 author: Gašper Dobrovoljc
-homepage: https://github.com/gapidobri/easistent_timetable
+homepage: https://github.com/gapidobri/easistent-timetable
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
